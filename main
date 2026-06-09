@@ -1,0 +1,3 @@
+Built an end to end ML pipeline in Python using pandas, scikit learn, and Random Forest Regressor to predict housing prices.
+Applied data preprocessing (median imputation, One Hot Encoding), performed EDA with correlation heat maps and distribution plots, and achieved strong model performance 
+Delivered feature importance insights and a deployment ready prediction system for real world inputs.
